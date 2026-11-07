@@ -15,17 +15,30 @@ a new repository** и назовите его `funnel-project`. Кнопка **F
 репозитория и выберите папку на диске. Как это выглядит по шагам —
 [разбор с кадрами](docs/git/README.md#2-первый-репозиторий).
 
+## Мои работы
+
+**Студент:** Сдобников Андрей Андреевич, группа РПО 25/2.
+
+Учебный сайт: [ga4-analytics-lab](https://github.com/dothefuture/ga4-analytics-lab) ·
+[ga4-analytics-lab-two.vercel.app](https://ga4-analytics-lab-two.vercel.app) ·
+Measurement ID `G-0DJ198TV26`. Все скриншоты в папках заданий — с моего сайта,
+моего ресурса GA4, моей таблицы и моего аккаунта Instagram.
+
+![Обзор в режиме реального времени GA4 для моего сайта](lesson_03/screens/03-realtime.png)
+
+*Рис. 1. Realtime моего ресурса GA4 «WEbSite0»: просмотры страниц и свои события сайта.*
+
 ## Домашние работы
 
-| № | Папка | Что сдаёте |
-|---|---|---|
-| 1 | `lesson_01` | три события на сайте, путь пользователя, точка потери данных |
-| 2 | `lesson_02` | где бизнес теряет клиентов: воронка и настройка GA4 |
-| 3 | `lesson_03` | скриншоты: тег на сайте, источник перехода и отчёты GA4 |
-| 4 | `lesson_04` | четыре своих события на сайте и их параметры в GA4 |
-| 5 | `lesson_05` | форма сайта пишет заявки в Google Таблицу через Apps Script |
-| 6 | `lesson_06` | повторяемая очистка выгрузки заявок формулами Google Таблиц |
-| 7 | `lesson_07` | цепочка Instagram → ManyChat → сайт → заявка в таблице |
+| № | Папка | Что сдаёте | Мой бланк | Кадры |
+|---|---|---|---|---|
+| 1 | `lesson_01` | три события на сайте, путь пользователя, точка потери данных | [homework_01.md](lesson_01/homework_01.md) | 2 |
+| 2 | `lesson_02` | где бизнес теряет клиентов: воронка и настройка GA4 | [homework_02.md](lesson_02/homework_02.md) | 5 |
+| 3 | `lesson_03` | скриншоты: тег на сайте, источник перехода и отчёты GA4 | [homework_03.md](lesson_03/homework_03.md) | 5 |
+| 4 | `lesson_04` | четыре своих события на сайте и их параметры в GA4 | [homework_04.md](lesson_04/homework_04.md) | 4 |
+| 5 | `lesson_05` | форма сайта пишет заявки в Google Таблицу через Apps Script | [homework_05.md](lesson_05/homework_05.md) | 9 |
+| 6 | `lesson_06` | повторяемая очистка выгрузки заявок формулами Google Таблиц | [homework_06.md](lesson_06/homework_06.md) · [leads_clean.csv](lesson_06/leads_clean.csv) | 7 |
+| 7 | `lesson_07` | цепочка Instagram → ManyChat → сайт → заявка в таблице | [homework_07.md](lesson_07/homework_07.md) | 7 из 8 |
 
 Что делать по заданию, написано в файле `README.md` внутри папки задания.
 Там же лежит бланк `homework_NN.md`: вы вписываете свои ответы в готовые
@@ -37,6 +50,15 @@ a new repository** и назовите его `funnel-project`. Кнопка **F
 работы и защита презентацией до 7 минут. Порядок сдачи, шаблоны README
 и описания, план слайдов — в [`kursovaya_rabota`](kursovaya_rabota/README.md).
 Ссылки сдаются бланком `kursovaya_rabota/kursovaya.md`.
+
+Моя курсовая — ТЗ № 17/2026, коворкинг «Точка сборки»:
+[репозиторий](https://github.com/dothefuture/tz-17-kovorking-tochka-sborki) ·
+[сайт](https://tz-17-kovorking-tochka-sborki.vercel.app) ·
+[бланк сдачи](kursovaya_rabota/kursovaya.md).
+
+![Главная страница сайта коворкинга «Точка сборки»](kursovaya_rabota/screens/01-site-home.png)
+
+*Рис. 2. Главная страница сайта курсовой «Точка сборки».*
 
 ## Лекции и материалы занятий
 
