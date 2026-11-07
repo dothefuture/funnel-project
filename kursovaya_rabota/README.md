@@ -1,5 +1,29 @@
 # Курсовая работа · ОП.03 «Информационные технологии»
 
+## Моя курсовая · Коворкинг «Точка сборки»
+
+**ТЗ № 17/2026.** Сдобников Андрей Андреевич, группа РПО 25/2.
+
+![Главная страница сайта коворкинга «Точка сборки»](screens/01-site-home.png)
+
+*Рис. 1. Главная страница сайта «Точка сборки» на Vercel.*
+
+| Материал | Открыть |
+|:--|:--|
+| Репозиторий проекта | [tz-17-kovorking-tochka-sborki](https://github.com/dothefuture/tz-17-kovorking-tochka-sborki) |
+| Сайт | [tz-17-kovorking-tochka-sborki.vercel.app](https://tz-17-kovorking-tochka-sborki.vercel.app) |
+| Описание и схема | [opisanie.md](https://github.com/dothefuture/tz-17-kovorking-tochka-sborki/blob/main/docs/opisanie.md) · [scheme.png](https://github.com/dothefuture/tz-17-kovorking-tochka-sborki/blob/main/docs/scheme.png) |
+| Презентация к защите | [PDF](https://github.com/dothefuture/tz-17-kovorking-tochka-sborki/blob/main/presentation/zashchita.pdf) · [PowerPoint](https://github.com/dothefuture/tz-17-kovorking-tochka-sborki/blob/main/presentation/zashchita.pptx) |
+| Бланк сдачи со ссылками | [kursovaya.md](kursovaya.md) |
+
+![Форма заявки на сайте «Точка сборки»](screens/04-form.png)
+
+*Рис. 2. Форма заявки: данные уходят через Apps Script в Google Таблицу вместе с UTM-метками.*
+
+---
+
+## О курсовой работе
+
 Курсовая работа — проект по техническому заданию компании. Каждый получает
 одно ТЗ из 26 (PDF выдаёт преподаватель). Вы делаете продукт по ТЗ,
 описываете работу и защищаете её презентацией.
